@@ -1,0 +1,2 @@
+# Verk.Övn
+Detta är en övning i Introduktion till modern utvecklarroll där jag tränar på filsystem, terminal, Git och Github. Jag skapar mappar och filer med terminalen, versionshanterar dem med Git och dokumenterar arbetet i denna README.
