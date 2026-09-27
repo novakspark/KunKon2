@@ -1,0 +1,6 @@
+pwd - var jag befinner mig i filsystem
+Is - innehållet i aktuell mapp
+cd - byter mapp, t ex cd KunKon2
+mkdir - skapar en ny mapp
+New-Item - skapar en ny fil (touch i PowerShell)
+Get-Content - innehållet i en textfil
