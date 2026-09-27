@@ -1,0 +1,2 @@
+# Repo-samarbete
+Ett gemensamt repo används i ett utvecklingsteam för att alla ska kunna arbeta med samma kod, se varandras ändringar och undvika att skriva över varandras arbete. Genom commits kan man följa vem som gjort vad och när, och genom branches kan flera personer jobba på olika dela samtidigt utan att störa huvudkoden.
